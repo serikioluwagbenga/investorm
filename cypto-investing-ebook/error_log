@@ -1,0 +1,2 @@
+[29-Dec-2022 07:47:51 UTC] PHP Warning:  Undefined array key "HTTPS" in /home/therightchoice/public_html/app-mint/cypto-investing-ebook/index.php on line 7
+[29-Dec-2022 07:47:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/therightchoice/public_html/app-mint/cypto-investing-ebook/index.php:1) in /home/therightchoice/public_html/app-mint/cypto-investing-ebook/index.php on line 9
